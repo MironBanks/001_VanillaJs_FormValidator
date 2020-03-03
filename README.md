@@ -1,6 +1,6 @@
 # Vanilla JavaScript Project 001
 
-Client side form validation
+Client Side Form Validation
 
 ## Project Specifications
 
@@ -15,8 +15,16 @@ This form check required, length, email and password match
 
 ## Step by step building process:
 
-### Step 1 - Html STRUCTURE
+### Step 1 - HTML STRUCTURE
 
 <h2 align="center">
-  <img src="./assets/FormValidator_html.png" alt="Gatsby Simplefolio" width="100%">
+  <img src="./assets/FormValidator_html.png" alt="html structure" width="100%">
+</h2>
+
+### Step 2 - CSS STYLE
+
+For most part its pretty basic CSS, I chose for this project neomorphism design
+
+<h2 align="center">
+  <img src="./assets/css.png" alt="css design" width="100%">
 </h2>
