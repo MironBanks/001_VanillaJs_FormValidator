@@ -1,6 +1,12 @@
 # Vanilla JavaScript Project 001
 
-Client Side Form Validation
+## Client Side Form Validation
+
+here U can see final project
+
+<h2 align="center">
+  <img src="./assets/FormValidator_MironBanks.png" alt="final product" width="100%">
+</h2>
 
 ## Project Specifications
 
@@ -34,10 +40,12 @@ For most part its pretty basic CSS, I chose for this project neomorphism design
 Most fun part. Creating basic functions for input and eventListener.
 
 <h2 align="center">
-  <img src="./assets/js_1.png" alt="css design" width="100%">
+  <img src="./assets/js_1.png" alt="first js" width="100%">
 </h2>
 
 ### Step 4 - Refactoring
 
 Time for refactoring. I dont like how i have a bunch of IF statements, its not very clean and scalable.
 If i want to add more fields or validations, then its kind of messy.
+
+
