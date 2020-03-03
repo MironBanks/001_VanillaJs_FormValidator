@@ -28,3 +28,11 @@ For most part its pretty basic CSS, I chose for this project neomorphism design
 <h2 align="center">
   <img src="./assets/css.png" alt="css design" width="100%">
 </h2>
+
+### Step 3 - JavaScript
+
+Most fun part. Creating basic functions for input and eventListener.
+
+<h2 align="center">
+  <img src="./assets/js_1.png" alt="css design" width="100%">
+</h2>
