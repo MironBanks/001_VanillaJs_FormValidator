@@ -13,7 +13,9 @@ This form check required, length, email and password match
 * checkEmail() to validate email with regex
 * checkPasswordsMatch() to match confirm password
 
-HTML structure
+## Instructions:
+
+### Step 1 - Html STRUCTURE
 
 <h2 align="center">
   <img src="./assets/FormValidator_html.png" alt="Gatsby Simplefolio" width="100%">
