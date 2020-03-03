@@ -13,7 +13,7 @@ This form check required, length, email and password match
 * checkEmail() to validate email with regex
 * checkPasswordsMatch() to match confirm password
 
-## Instructions:
+## Step by step building process:
 
 ### Step 1 - Html STRUCTURE
 
