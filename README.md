@@ -12,3 +12,9 @@ This form check required, length, email and password match
 * checkLength() to check min and max length
 * checkEmail() to validate email with regex
 * checkPasswordsMatch() to match confirm password
+
+HTML structure
+
+<h2 align="center">
+  <img src="./assets/FormValidator_html.png" alt="Gatsby Simplefolio" width="100%">
+</h2>
